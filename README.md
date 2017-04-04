@@ -1,2 +1,3 @@
 # hello-word
-just another repository
+
+Maxim speaking. CODEC is a great project.
